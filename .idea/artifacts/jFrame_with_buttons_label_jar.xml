@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jFrame_with_buttons&amp;label:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jFrame_with_buttons_label_jar</output-path>
+    <root id="archive" name="jFrame_with_buttons&amp;label.jar">
+      <element id="module-output" name="jFrame_with_buttons&amp;label" />
+    </root>
+  </artifact>
+</component>
